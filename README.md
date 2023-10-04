@@ -18,24 +18,24 @@ Visiualizations that do not appear in github preview of RB_salarycap_EPA.ipynb:
 ![newplot(1)](https://github.com/evmorg/RB_salarycap_EPA/assets/29820217/67b358e5-5736-47c6-9031-ced6e1789d66)
 
 Modules, Libraries, etc. used:
-web-scraping:
-from urllib.request import urlopen
-from bs4 import BeautifulSoup
+- web-scraping:
+  - from urllib.request import urlopen
+  - from bs4 import BeautifulSoup
 
-data wrangling:
-import pandas as pd
-import numpy as np
-import re
-from functools import reduce
+- data wrangling:
+  - import pandas as pd
+  - import numpy as np
+  - import re
+  - from functools import reduce
 
-nfl data:
-%pip install nfl-data-py
-import nfl_data_py as nfl
+- nfl data:
+  - %pip install nfl-data-py
+  - import nfl_data_py as nfl
 
-data viz:
-import plotly.express as px
-import seaborn as sns
-from matplotlib import pyplot as plt
-import os
-import urllib.request
-from matplotlib.offsetbox import AnnotationBbox, OffsetImage
+- data viz:
+  - import plotly.express as px
+  - import seaborn as sns
+  - from matplotlib import pyplot as plt
+  - import os
+  - import urllib.request
+  - from matplotlib.offsetbox import AnnotationBbox, OffsetImage
