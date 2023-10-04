@@ -18,7 +18,7 @@ Visiualizations that do not appear in github preview of RB_salarycap_EPA.ipynb:
 ![newplot(1)](https://github.com/evmorg/RB_salarycap_EPA/assets/29820217/67b358e5-5736-47c6-9031-ced6e1789d66)
 
 Additional visualizations found in RB_salarycap_EPA.ipynb:
-!![Untitled1](https://github.com/evmorg/RB_salarycap_EPA/assets/29820217/621c35e7-eef5-4e57-a39b-0f8de9de104d)
+![Untitled1](https://github.com/evmorg/RB_salarycap_EPA/assets/29820217/621c35e7-eef5-4e57-a39b-0f8de9de104d)
 ![Untitled](https://github.com/evmorg/RB_salarycap_EPA/assets/29820217/a19b686c-e606-4392-8a60-524444feb44d)
 ![Untitled3](https://github.com/evmorg/RB_salarycap_EPA/assets/29820217/fa0c77c2-4d74-45aa-8175-c1963a2792c5)
 
