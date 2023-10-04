@@ -1,5 +1,5 @@
 # RB_salarycap_EPA
-Runnings Backs in the NFL - Which Team Gets Best Bang for Buck? Scraping Spotrac and using nfl_data_py to find out.
+Running Backs in the NFL - Which Team Gets Best Bang for Buck? Scraping Spotrac and using nfl_data_py to find out.
 
 Over the past summer, many have debated the value of running backs (RBs) in the NFL. Two sides persist in this case: the teams (who wish to get the most on-field production out of their RBs for the least money) and the players (who wish to earn the most money possible during their careers). As a fan, I'm interested in this debate as I believe these RBs should be given as much money as possible during their careers; however, I recognize there is a competitive advantage to ensuring that teams get good production out of their RBs while spending little money on the position. In an ideal world, teams would pay their RBs well, and RBs would produce on the field.
 
