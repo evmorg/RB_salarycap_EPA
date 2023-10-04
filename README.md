@@ -13,9 +13,11 @@ Next, I pulled EPA data from the nfl-data-py library. You can find the preparati
 
 Now that I have my final dataset, I began the analysis and data visualization in Section 5. Heat maps were used to identify the teams that spent the most on RBs, and dedicated the greatest percentage of their respective salary caps to RBs. Scatter plots were used to visualize the relationship between receiving and rushing production from each team’s RBs, as well as their respective salary cap percentage dedicated to the position. Using these scatter pots, we can best identify which teams truly got the “best bang for their buck”. Section 6 is used to summarize the results.
 
+
 Visiualizations that do not appear in github preview of RB_salarycap_EPA.ipynb:
 ![newplot](https://github.com/evmorg/RB_salarycap_EPA/assets/29820217/4f6899f9-68e3-498e-a1e5-7bd1ae086c0c)
 ![newplot(1)](https://github.com/evmorg/RB_salarycap_EPA/assets/29820217/67b358e5-5736-47c6-9031-ced6e1789d66)
+
 
 Modules, Libraries, etc. used:
 - web-scraping:
